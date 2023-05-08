@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>planefinder</module>
+        <module>aircraft-positions</module>
     </modules>
 
     <properties>
